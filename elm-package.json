@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "summary": "Lookup a key in an assoc list",
+    "repository": "https://github.com/tryzniak/assoc.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": ["Assoc"],
+    "dependencies": {
+        "elm-lang/core": "5.1.1 <= v < 6.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
